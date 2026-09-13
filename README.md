@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola mi Nombre es Marco Antonio Olmos Xochihua
+## Soy estudiante de Ingeniería en Sistemas Computacionales con interés en el desarrollo de 
+software, inteligencia artificial y nuevas tecnologías.
+## Me considero una persona responsable, dedicada y en constante aprendizaje, con el objetivo de adquirir experiencia 
+práctica y seguir creciendo en el ámbito tecnológico.
 
 <!--
 **marco-olmos/marco-olmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
